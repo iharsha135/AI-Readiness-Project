@@ -100,6 +100,8 @@ This notebook explores the AI readiness of various industries based on five key 
 
   - Primary indusries are highly automation-ready, but digitally dispositioned to embrace AI transforamtion. Metrics also show the low scores across Digital Infrasturcture, AI Investment, Use Cases. However piloting solutions based on high-ROI intiatives can help kickstart growth in this sector.
 
+  ![alt text](image-1.png "Average AI Readiness")
+
 
 
 ***
