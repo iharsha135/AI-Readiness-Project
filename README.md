@@ -18,6 +18,8 @@ This notebook explores the AI readiness of various industries based on five key 
  - Figure out high level outlook on which Industries are already embracing AI transformation
  - Idenitify which industies are aligning to certain transforamtion verticals like: (Industry 4.0, Responsible AI, Public Sector Digitization)
 
+ ***
+
  #### Key Metrics 
 
  > Automation Potential
@@ -56,43 +58,45 @@ This notebook explores the AI readiness of various industries based on five key 
 
  1. The top 5 indutries most prepared for AI transforamtion are service-oriented industries mainly branching into the Quaternary Industries (Knowledge and Innovation) and Tertiary Industires (Services-based).
  
-    - Suggesting a wide spread adoption is being already implemented amongst these indutries, while incorporating upskilling amongst junior employees for AI upskilling for being more productive and efficeint in their outcomes.
+    - Suggesting a wide spread adoption is being already implemented amongst these indutries, while incorporating upskilling amongst junior employees for AI upskilling for being more productive and efficient in their outcomes.
 
- 2. Industires within the Primary and Secondary Subests are industries with untapped potential.
+ 2. Industires within the Primary and Secondary Subsets are industries with untapped potential.
 
-    - These sectors are in the perfect postion for AI transformation, howver they could face organisational and technical bottlenecks like; (Legacy Systems, skills shoratge, Cross-departmental silos)
+    - These sectors are in the perfect postion for AI transformation, however they could face organisational and technical bottlenecks like; (Legacy Systems, skills shoratge, Cross-departmental silos)
 
-3. Many of the Industries that are lacking behind in AI Trnasformations are industries that lack digital infrastructure to support and deploy large scale systems in use.
+3. Many of the Industries that are lacking behind in AI Transformations are industries that lack digital infrastructure to support and deploy large scale systems in use.
 
-    - Weak Internal Systems (education, legal, tourism) block AI development, but have scope to intoduce NLP-driven productivity tools to help create better use cases for authorities to implment better AI solutions for low digitally mature industries.
+    - Weak Internal Systems (education, legal, tourism) block AI development, but have scope to intoduce NLP-driven productivity tools to help create better use cases for authorities to implement better AI solutions for low digitally mature industries.
+
+***
 
 
 #### Insights based on Sector
 
-1. Secondary Sector - (Manufacturing, Construction, Aerospace)
+> 1. Secondary Sector - (Manufacturing, Construction, Aerospace)
 
- - Highest average readiness score - (3.98)
+ - **Highest average readiness score - (3.98)**
  - Automation Potential and Use Cases are it's top strengths
 
-  - Secondary Sector is highly automatable and use-case rich, but there's funding and implemntation bottlenecks. Massive ROI can be unlocked by guiding manufacturers thoorugh custom AI Roadmaps, to help guide and create better economies of scale for production and talent outsource.
+  - Secondary Sector is highly automatable and use-case rich, but there's funding and implementation bottlenecks. Massive ROI can be unlocked by guiding manufacturers through custom AI Roadmaps, to help guide and create better economies of scale for production and talent outsource.
 
-2. Quatenary Sector - (Tech, Consulting, R&D)
+> 2. Quatenary Sector - (Tech, Consulting, R&D)
 
- - Good average readiness score - (3.87)  
+ - **Good average readiness score - (3.87)**  
  - High averages across Digital Infrastructure, Use Cases
 
   - Quaternary Sector is digitally-native, AI - first indutries, where innovation, optimisation and responsible AI are key themes. Opportunities present are in responsible AI and ethics and deploying cross functionally across other forms of businesses like; (B2B, SAAS)
 
-3. Tertiary Sector - (Healthcare, Retail, Education)
+> 3. Tertiary Sector - (Healthcare, Retail, Education)
 
- - Low readiness core across all metrics - (3.50)
+ - **Low readiness core across all metrics - (3.50)**
 
-  - Tertiary sector offers massive transforamtion potential and decent growth. Faces operational complexity, regaulatory resistance, workforce friction. Slow adopter of AI, but benefit markets for transformation.
+  - Tertiary sector offers massive transformation potential and decent growth. Faces operational complexity, regulatory resistance, workforce friction. Slow adopter of AI, but benefit markets for transformation.
 
 
-4. Primary Sector - (Agriculture, Mining, Utlities)
+> 4. Primary Sector - (Agriculture, Mining, Utlities)
 
- - Lowest overall score - (3.20)
+ - **Lowest overall score - (3.20)**
 
   - Primary indusries are highly automation-ready, but digitally dispositioned to embrace AI transforamtion. Metrics also show the low scores across Digital Infrasturcture, AI Investment, Use Cases. However piloting solutions based on high-ROI intiatives can help kickstart growth in this sector.
 
